@@ -21,6 +21,8 @@ https://player.smotrim.ru/iframe/stream/live_id/61126
 http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 #EXTINF:-1 tvg-id="rentv" tvg-logo="http://epg.one/img2/18.png" group-title="Общественные",Рен ТВ
 http://91.207.114.220:9001/play/a058/index.m3u8
+#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://epgx.site/p/perec.png" group-title="Развлекательные",Перец (EDTV 576p)
+http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://epgx.site/p/rentv-int.png" group-title="Общественные",Рен ТВ Int
 http://45.159.74.14:80/RenTv/index.m3u8
 #EXTINF:-1 tvg-name="Спас " tvg-logo="https://i.imgur.com/A6Cqsom.jpeg" tvg-id="TelekanalSpas.ru" group-title="Russia",Спас 
@@ -198,8 +200,6 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://epgx.site/p/kluch.png" group-title="Развлекательные",Ключ (EDTV 576p)
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
-#EXTINF:-1 tvg-id="perec-int" tvg-logo="https://epgx.site/p/perec.png" group-title="Развлекательные",Перец (EDTV 576p)
-http://stream01.vnet.am/Perec/mono.m3u8
 #EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Развлекательные",Пятница Int (EDTV 576p)
 https://stream01.vnet.am/Pyatnica/mono.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Развлекательные",Суббота (HD)
