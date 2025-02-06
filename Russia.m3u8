@@ -551,70 +551,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Вести ФМ" tvg-logo="https://cdn-st3.smotrim.ru/vh/pictures/r/371/033/8.png" group-title="Alle",Вести ФМ
 https://player.smotrim.ru/iframe/stream/live_id/52035
-#EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://epgx.site/p/extreme-sports.png" group-title="Alle",Extreme Sports (EDTV 576p)
-http://edge02.odtv.az/o4/extremesport/playlist.m3u8
-#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Alle",Eurosport 1 (HD)
-http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
-#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Alle",Eurosport 2 (HD)
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Alle",Viju+sport (EDTV 576p)
-http://185.50.148.2:7703/ViasatSport/index.m3u8
-#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Alle",Мир баскетбола (EDTV 576p)
-http://iptv.mega.net.ru:8888/RTD/mono.m3u8
-#EXTINF:-1 tvg-id="start" tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Alle",Старт (EDTV 576p)
-http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="2782" tvg-logo="http://epg.one/img2/2782.png" group-title="Alle",Футбол (WSVGA)
-https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Alle",Матч ТВ
-http://91.142.158.107:8092/play/33/index.m3u8
-#EXTINF:-1 group-title="Alle",Матч! Боец
-http://87.120.142.11:18000/Match!
-#EXTINF:-1 group-title="Alle",Матч! АРЕНА
-http://87.120.142.11:18000/Match!Arena
-#EXTINF:-1 group-title="Alle",Матч! Игра
-http://87.120.142.11:18000/Match!Igra
-#EXTINF:-1 group-title="Alle",Матч Премьер HD
-http://78.62.135.122:8082/MatchPremierHD/index.m3u8
-#EXTINF:-1 group-title="Alle",Setanta Sports 1
-https://tv.movielab.pro/942/index.m3u8?token=c5f8f71aed18d3a4dc6ea0dec9bc97c079f05da4-6ffb6ed74a482b30c789f4e0e6c6939f-1727031534-1726945134
-#EXTINF:-1 group-title="Alle",Setanta Sports 2
-https://tv.movielab.pro/943/index.m3u8?token=97b0edfa2e43184dddf5ef34ce06943e4cc9e8ad-324ef42f4d738792801a5d14873a47b7-1727031534-1726945134
-#EXTINF:-1 group-title="Alle",Setanta Qazaqstan HD
-https://tv.movielab.pro/5094/index.m3u8?token=5e22c26c788ffed9ec808e20c6de6c4706a12b77-50271c928126ea871a3462503d12232a-1727031534-1726945134
-#EXTINF:-1 group-title="Alle",Eurosport 1 HD
-https://tv.movielab.pro/145/index.m3u8?token=d8c822b3612abd00e8499d7f677fd9e0433fcc2e-a49cd884d94ac14e9a025930cacb7a0a-1727031534-1726945134
-#EXTINF:-1 group-title="Alle",NBA TV HD
-https://tv.movielab.pro/9984/index.m3u8?token=59973edb2268475d6b9d91367c6f70499a21a3fa-9106ead62dcee685fa058db3f1c1f0b4-1727031534-1726945134
-#EXTINF:-1 group-title="Alle" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="Alle",МАТЧ! АРЕНА
-http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ! БОЕЦ
-http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ ПРЕМЬЕР
-http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ! СТРАНА
-http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ HD
-http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 1
-http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 2
-http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 3
-http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",Матч! Футбол 1 HD
-http://91.207.115.228:12000/play/a032
-#EXTINF:-1 group-title="Alle",Матч! Футбол 2 HD
-http://91.207.115.228:12000/play/a033
-#EXTINF:-1 group-title="Alle",Матч! Футбол 3 HD
-http://91.207.115.228:12000/play/a034
-#EXTINF:-1 group-title="Alle",Eurosport 2
-http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
-#EXTINF:-1 group-title="Alle",МИР БАСКЕТБОЛА
-http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
-#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://epg.it999.ru/img2/6767.png" group-title="Alle",МТВ (Волгоград) (HD ready)
-https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 CUID="444" number="339" tvg-id="epg6:ard.de" tvg-name="epg6:ard.de" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/DASERSTEHD200.png" group-title="Alle",Das Erste HD DE
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjYzIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgyNjMvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4MjYzIiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiNDQ0IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyNjMvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 CUID="468" number="336" tvg-id="epg6:zdf.de" tvg-name="epg6:zdf.de" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/ZDFHD200.png" group-title="Alle",ZDF HD DE
@@ -749,6 +685,70 @@ http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzY0Iiwic3RwIjoiMS
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4Mzg3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMjk0IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzODcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 CUID="469" number="514" tvg-id="epg6:skysport1.de" tvg-name="epg6:skysport1.de" arc-timeshift="336" arc-time="336" catchup="shift" catchup-days="14" tvg-logo="http://stb.uspeh.sbs/images/logo_chanel/sport1 hd сер.png" group-title="Alle",Sport 1 HD DE
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjY2Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgyNjYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4MjY2IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiNDY5IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyNjYvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 tvg-id="extreme-sports" tvg-logo="https://epgx.site/p/extreme-sports.png" group-title="Alle",Extreme Sports (EDTV 576p)
+http://edge02.odtv.az/o4/extremesport/playlist.m3u8
+#EXTINF:-1 tvg-id="eurosport1" tvg-logo="https://epgx.site/p/eurosport1.png" group-title="Alle",Eurosport 1 (HD)
+http://45.159.74.14:80/Eurosport/tracks-v1a2/mono.m3u8
+#EXTINF:-1 tvg-id="eurosport2" tvg-logo="https://epgx.site/p/eurosport2.png" group-title="Alle",Eurosport 2 (HD)
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 tvg-id="viasat-sport" tvg-logo="http://epg.it999.ru/img2/2055.png" group-title="Alle",Viju+sport (EDTV 576p)
+http://185.50.148.2:7703/ViasatSport/index.m3u8
+#EXTINF:-1 tvg-id="mir-basketbola" tvg-logo="https://epgx.site/p/mir-basketbola.png" group-title="Alle",Мир баскетбола (EDTV 576p)
+http://iptv.mega.net.ru:8888/RTD/mono.m3u8
+#EXTINF:-1 tvg-id="start" tvg-logo="http://epg.it999.ru/img2/2530.png" group-title="Alle",Старт (EDTV 576p)
+http://188.190.222.48:8765/Start_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="2782" tvg-logo="http://epg.one/img2/2782.png" group-title="Alle",Футбол (WSVGA)
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://epgx.site/p/match-tv.png" group-title="Alle",Матч ТВ
+http://91.142.158.107:8092/play/33/index.m3u8
+#EXTINF:-1 group-title="Alle",Матч! Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Alle",Матч! АРЕНА
+http://87.120.142.11:18000/Match!Arena
+#EXTINF:-1 group-title="Alle",Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Alle",Матч Премьер HD
+http://78.62.135.122:8082/MatchPremierHD/index.m3u8
+#EXTINF:-1 group-title="Alle",Setanta Sports 1
+https://tv.movielab.pro/942/index.m3u8?token=c5f8f71aed18d3a4dc6ea0dec9bc97c079f05da4-6ffb6ed74a482b30c789f4e0e6c6939f-1727031534-1726945134
+#EXTINF:-1 group-title="Alle",Setanta Sports 2
+https://tv.movielab.pro/943/index.m3u8?token=97b0edfa2e43184dddf5ef34ce06943e4cc9e8ad-324ef42f4d738792801a5d14873a47b7-1727031534-1726945134
+#EXTINF:-1 group-title="Alle",Setanta Qazaqstan HD
+https://tv.movielab.pro/5094/index.m3u8?token=5e22c26c788ffed9ec808e20c6de6c4706a12b77-50271c928126ea871a3462503d12232a-1727031534-1726945134
+#EXTINF:-1 group-title="Alle",Eurosport 1 HD
+https://tv.movielab.pro/145/index.m3u8?token=d8c822b3612abd00e8499d7f677fd9e0433fcc2e-a49cd884d94ac14e9a025930cacb7a0a-1727031534-1726945134
+#EXTINF:-1 group-title="Alle",NBA TV HD
+https://tv.movielab.pro/9984/index.m3u8?token=59973edb2268475d6b9d91367c6f70499a21a3fa-9106ead62dcee685fa058db3f1c1f0b4-1727031534-1726945134
+#EXTINF:-1 group-title="Alle" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="Alle",МАТЧ! АРЕНА
+http://65.21.85.175:8000/play/a004/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ! БОЕЦ
+http://65.21.85.175:8000/play/a005/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ ПРЕМЬЕР
+http://65.21.85.175:8000/play/a00a/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ! СТРАНА
+http://65.21.85.175:8000/play/a00b/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ HD
+http://65.21.85.175:8000/play/a006/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 1
+http://65.21.85.175:8000/play/a007/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 2
+http://65.21.85.175:8000/play/a008/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МАТЧ! ФУТБОЛ 3
+http://65.21.85.175:8000/play/a009/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",Матч! Футбол 1 HD
+http://91.207.115.228:12000/play/a032
+#EXTINF:-1 group-title="Alle",Матч! Футбол 2 HD
+http://91.207.115.228:12000/play/a033
+#EXTINF:-1 group-title="Alle",Матч! Футбол 3 HD
+http://91.207.115.228:12000/play/a034
+#EXTINF:-1 group-title="Alle",Eurosport 2
+http://65.21.85.175:8000/play/a01q/index.m3u8?token=livetv
+#EXTINF:-1 group-title="Alle",МИР БАСКЕТБОЛА
+http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
+#EXTINF:-1 tvg-id="mtv-volgograd" tvg-logo="http://epg.it999.ru/img2/6767.png" group-title="Alle",МТВ (Волгоград) (HD ready)
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="saxa" tvg-logo="https://epgx.site/p/saxa.png" group-title="Alle",НВК Саха (HD)
 https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 tvg-id="nn-24" tvg-logo="https://i.imgur.com/ZWgPVIC.png" group-title="Alle",Нижний Новгород 24 (HD)
