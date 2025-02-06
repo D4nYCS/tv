@@ -277,12 +277,8 @@ http://stream01.vnet.am/BRIDGETVClassic/tracks-v1a1/mono.m3u8
 http://91.197.104.34/AAC/mono.m3u8
 #EXTINF:-1 tvg-id="bridge-tv-rock" tvg-logo="https://epgx.site/p/bridge-tv-rock.png" group-title="Alle",Bridge Rock (EDTV 576p)
 http://hls.seversk.ru:8080/play/a012/index.m3u8
-#EXTINF:-1 tvg-id="2024" tvg-logo="http://epg.one/img2/2024.png" group-title="Alle",Bridge Hits (HD)
-
 #EXTINF:-1 tvg-id="bridge-tv-ruxit" tvg-logo="https://epgx.site/p/bridge-tv-ruxit.png" group-title="Alle",Bridge Русский хит (EDTV 576p)
 http://stream01.vnet.am/Channel_115/mono.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-shlager" tvg-logo="https://epgx.site/p/bridge-tv-shlager.png" group-title="Alle",Bridge Шлягер (EDTV 576p)
-
 #EXTINF:-1 tvg-id="clubbing-tv" tvg-logo="https://epgx.site/p/clubbing-tv.png" group-title="Alle",Clubbing TV (HD ready)
 https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="2409" tvg-logo="http://epg.one/img2/2409.png" group-title="Alle",Music Box Russia (EDTV 576p)
@@ -291,8 +287,6 @@ http://94.230.128.105:8080/MUSIC/index.m3u8
 http://195.26.83.96:7006/play/1/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="http://epg.it999.ru/img2/2277.png" group-title="Alle",RU TV (HD)
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="viva-rus" tvg-logo="https://epgx.site/p/viva-rus.png" group-title="Alle",VIVA Russia (HD)
-
 #EXTINF:-1 tvg-id="zhar-ptica" tvg-logo="https://epgx.site/p/zhar-ptica.png" group-title="Alle",Жар-Птица (EDTV 480p)
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1  tvg-id="zhara" tvg-logo="https://epgx.site/p/zhara.png" group-title="Alle",Жара (EDTV 576p)
@@ -345,12 +339,6 @@ http://iptv.mega.net.ru:8888/plan_b_hd/mono.m3u8
 http://188.190.222.48:8765/Start_World/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="trashtv" tvg-logo="https://epgx.site/p/trashtv.png" group-title="Alle",Trash (HD)
 http://hls127.homeiptv.org:8880/Trash_HD/video.m3u8
-#EXTINF:-1 audio-track="ru" tvg-id="tv1000-cee" tvg-logo="https://epgx.site/p/tv1000-cee.png" group-title="Alle",Viasat Kino (EDTV 576p)
-
-#EXTINF:-1 audio-track="ru" tvg-id="tv1000-action-cee" tvg-logo="https://epgx.site/p/tv1000-action-cee.png" group-title="Alle",Viasat Kino Action (EDTV 576p)
-
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://epgx.site/p/tv1000-worldkino.png" group-title="Alle",Viasat Kino World (EDTV 576p)
-
 #EXTINF:-1 tvg-id="vhs-ka" tvg-logo="https://epgx.site/p/vhs-ka.png" group-title="Alle",VHS-ка (HD)
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-id="dorama" tvg-logo="https://epgx.site/p/dorama.png" group-title="Alle",Дорама (EDTV 576p)
