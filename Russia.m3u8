@@ -1,34 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Alle",Первый канал
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия РТР
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1
 https://streaming.televizor-24-tochka.ru/live/5.m3u8
-#EXTINF:-1 tvg-name="Россия 1 +6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1 +6
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzAwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgzMDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4MzAwIiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMjM5IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzMDAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 tvg-name="Россия 1 +4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1 +4
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTAyIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTUyLzgxMDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTgiLCJhZnAiOiI4MTAyIiwiYXRzIjoiMjQiLCJsIjoiNzg3Y2EyNGUiLCJwIjoiNzg3Y2EyNGUzMTQyZTE2MiIsImMiOiI5OCIsInQiOiI2N2I1OWRkZWFhMzE0ZDJlMTY1MzE2MjYxOGRjNjRlNCIsImQiOiI0ODA1NiIsInIiOiI0ODkzMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDIvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия K
+https://streaming.televizor-24-tochka.ru/live/9.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 24
+https://streaming.televizor-24-tochka.ru/live/10.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ +6
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4Mjk4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgyOTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4Mjk4IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMjM3IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyOTgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ +4
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MjI1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTUzLzgyMjUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjMiLCJhZnAiOiI4MjI1IiwiYXRzIjoiMjQiLCJsIjoiNzg3Y2EyNGUiLCJwIjoiNzg3Y2EyNGUzMTQyZTE2MiIsImMiOiIyMTMiLCJ0IjoiNjdiNTlkZGVhYTMxNGQyZTE2NTMxNjI2MThkYzY0ZTQiLCJkIjoiNDgwNTYiLCJyIjoiNDg5MzMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyMjUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 group-title="Alle",НТВ Mир
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDExIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTQ2LzgwMTEvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4MDExIiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMTEiLCJ0IjoiNjdiNTlkZGVhYTMxNGQyZTE2NTMxNjI2MThkYzY0ZTQiLCJkIjoiNDgwNTYiLCJyIjoiNDg5MzMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMTEvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 group-title="Alle",НТВ Право
-http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
-#EXTINF:-1 group-title="Alle",НТВ Стиль
-http://185.23.80.28:8080/NTVStil/index.m3u8?token=test
-#EXTINF:-1 group-title="Alle",НТВ Хит
-http://185.23.80.28:8080/NTVXit/index.m3u8?token=test
-#EXTINF:-1 group-title="Alle",НТВ Сериал
-http://185.23.80.28:8080/NTVSerial/index.m3u8?token=test
 #EXTINF:-1 tvg-id="che" tvg-logo="https://epgx.site/p/che.png" group-title="Alle",Че!
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDA4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTQ2LzgwMDgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4MDA4IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiOCIsInQiOiI2N2I1OWRkZWFhMzE0ZDJlMTY1MzE2MjYxOGRjNjRlNCIsImQiOiI0ODA1NiIsInIiOiI0ODkzMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMDgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Alle",Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1 group-title="Alle",ТНТ HD
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDA3Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTQ2LzgwMDcvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4MDA3IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiNyIsInQiOiI2N2I1OWRkZWFhMzE0ZDJlMTY1MzE2MjYxOGRjNjRlNCIsImQiOiI0ODA1NiIsInIiOiI0ODkzMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMDcvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 group-title="Alle",ТНТ
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
 #EXTINF:-1 tvg-id="tnt-int-eu" tvg-logo="http://epg.it999.ru/img2/353.png" group-title="Alle",ТНТ Int (Европа)
 http://85.187.13.40:18000/tntint
 #EXTINF:-1 group-title="Alle",ТНТ4
@@ -36,37 +22,37 @@ http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTk0Iiwic3RwIjoiMS
 #EXTINF:-1 group-title="Alle",ТНТ4 HD
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDU4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTQ2LzgwNTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4MDU4IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiNTYiLCJ0IjoiNjdiNTlkZGVhYTMxNGQyZTE2NTMxNjI2MThkYzY0ZTQiLCJkIjoiNDgwNTYiLCJyIjoiNDg5MzMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwNTgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 group-title="Alle",Карусель
-http://185.23.80.28:8080/Karusel/index.m3u8?token=test
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" group-title="Alle",ОТР
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTQ2Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTUyLzgxNDYvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjEiLCJhZnAiOiI4MTQ2IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMTM3IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxNDYvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1 group-title="Alle" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Рен ТВ
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MDA0Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTQ2LzgwMDQvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzQiLCJhZnAiOiI4MDA0IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiNCIsInQiOiI2N2I1OWRkZWFhMzE0ZDJlMTY1MzE2MjYxOGRjNjRlNCIsImQiOiI0ODA1NiIsInIiOiI0ODkzMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgwMDQvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="perec-int" tvg-logo="https://epgx.site/p/perec.png" group-title="Alle",Перец (EDTV 576p)
 http://stream01.vnet.am/Perec/mono.m3u8
-#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://epgx.site/p/rentv-int.png" group-title="Alle",Рен ТВ Int
-http://45.159.74.14:80/RenTv/index.m3u8
+#EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://epgx.site/p/rentv-int.png" group-title="Alle",Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 group-title="Alle",Победа
 http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Alle",СТС HD
-http://45.159.74.13:80/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="sts" tvg-logo="https://epgx.site/p/sts.png" group-title="Alle",СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
 #EXTINF:-1 tvg-id="sts-love" tvg-logo="https://epgx.site/p/sts-love.png" group-title="Alle",СТС Love
 http://178.212.71.253:8002/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="domashny" tvg-logo="http://epg.it999.ru/img2/304.png" group-title="Alle",Домашний HD
 https://livetv.mylifeisgood.net.ru/channels/domashnii.m3u8
-#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Alle",Домашний Int
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" group-title="Alle",Домашний
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1 tvg-id="piatnica" tvg-logo="https://epgx.site/p/piatnica.png" group-title="Alle",Пятница! HD
 https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
 #EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="TelekanalZvezda.ru" group-title="Alle",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Mir.ru" group-title="Alle",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+https://streaming.televizor-24-tochka.ru/live/21.m3u8
 #EXTINF:-1 group-title="Alle" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВЦ
-http://s18209.cdn.ngenix.net/hls/CH_R04_TVC/playlist.m3u8
+https://streaming.televizor-24-tochka.ru/live/13.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://epgx.site/p/muztv.png" group-title="Alle",Муз-ТВ
 http://stream01.vnet.am/MuzTv/mono.m3u8
 #EXTINF:-1 group-title="Alle" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТВ3
-http://s18209.cdn.ngenix.net/hls/CH_R01_TV3/playlist.m3u8
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1 group-title="Alle",2х2
 http://185.23.80.28:8080/2x2/index.m3u8?token=test
 #EXTINF:-1 group-title="Alle",Ю
@@ -251,8 +237,8 @@ http://95.156.76.230:33001/udp/230.4.34.6:1234
 http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="kluch" tvg-logo="https://epgx.site/p/kluch.png" group-title="Alle",Ключ (EDTV 576p)
 http://hls127.homeiptv.org:8880/Kluch/video.m3u8
-#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Alle",Пятница Int (EDTV 576p)
-https://stream01.vnet.am/Pyatnica/mono.m3u8
+#EXTINF:-1 tvg-id="piatnica-int" tvg-logo="https://i.imgur.com/N2z3EZC.png" group-title="Alle",Пятница
+https://streaming.televizor-24-tochka.ru/live/19.m3u8
 #EXTINF:-1 tvg-id="super" tvg-logo="https://epgx.site/p/subbota.png" group-title="Alle",Суббота (HD)
 https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
 #EXTINF:-1 tvg-id="strk" tvg-logo="https://epgx.site/p/strk.png" group-title="Alle",СТРК (HD ready)
