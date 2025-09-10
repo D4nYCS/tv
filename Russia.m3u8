@@ -1,18 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Alle",Первый канал
 https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Alle",Первый канал +6
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4Mjk5Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgyOTkvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjciLCJhZnAiOiI4Mjk5IiwiYXRzIjoiMjQiLCJsIjoiNzg3Y2EyNGUiLCJwIjoiNzg3Y2EyNGUzMTQyZTE2MiIsImMiOiIyMzgiLCJ0IjoiNjdiNTlkZGVhYTMxNGQyZTE2NTMxNjI2MThkYzY0ZTQiLCJkIjoiNDgwNTYiLCJyIjoiNDg5MzMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyOTkvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Alle",Первый канал +4
-http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTQ1Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTUzLzgxNDUvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMjMiLCJhZnAiOiI4MTQ1IiwiYXRzIjoiMjQiLCJsIjoiNzg3Y2EyNGUiLCJwIjoiNzg3Y2EyNGUzMTQyZTE2MiIsImMiOiIxMzYiLCJ0IjoiNjdiNTlkZGVhYTMxNGQyZTE2NTMxNjI2MThkYzY0ZTQiLCJkIjoiNDgwNTYiLCJyIjoiNDg5MzMiLCJtIjoidHYiLCJkdCI6IjAifQeyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxNDUvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
-#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия РТР
+https://rustv.live/64c997ba-9579-4dd7-b22f-6e0157d4568a
 #EXTINF:-1 tvg-name="Россия 1 +6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1 +6
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MzAwIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgzMDAvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4MzAwIiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMjM5IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgzMDAvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-name="Россия 1 +4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 1 +4
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4MTAyIiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTUyLzgxMDIvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMTgiLCJhZnAiOiI4MTAyIiwiYXRzIjoiMjQiLCJsIjoiNzg3Y2EyNGUiLCJwIjoiNzg3Y2EyNGUzMTQyZTE2MiIsImMiOiI5OCIsInQiOiI2N2I1OWRkZWFhMzE0ZDJlMTY1MzE2MjYxOGRjNjRlNCIsImQiOiI0ODA1NiIsInIiOiI0ODkzMyIsIm0iOiJ0diIsImR0IjoiMCJ9eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgxMDIvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ HD
-http://cdn2.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ +6
 http://rso.uspeh.sbs/bc3RiX3Rva2VuXSIsInVmdCI6IjIiLCJ1ZnAiOiI4Mjk4Iiwic3RwIjoiMSIsImFkbCI6IjE0IiwiYSI6Imh0dHA6Ly8xOTUuMjExLjI3LjE0ODo5MTU0LzgyOTgvdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwiYWZ0IjoiMzYiLCJhZnAiOiI4Mjk4IiwiYXRzIjoiMzM2IiwibCI6Ijc4N2NhMjRlIiwicCI6Ijc4N2NhMjRlMzE0MmUxNjIiLCJjIjoiMjM3IiwidCI6IjY3YjU5ZGRlYWEzMTRkMmUxNjUzMTYyNjE4ZGM2NGU0IiwiZCI6IjQ4MDU2IiwiciI6IjQ4OTMzIiwibSI6InR2IiwiZHQiOiIwIn0eyJ1IjoiaHR0cDovL3BsLmFkbXVzcGVoLm15LzgyOTgvaW5kZXgubTN1OD90b2tlbj1/index.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ +4
