@@ -4,7 +4,7 @@ set -x
 
 BASE_PATH="/home/dany/git"
 PULL_REPO="${BASE_PATH}/dimo-tv"
-POST_PULL_SCRIPT="${BASE_PATH}/scripts/replace_old_channel_urls.sh"
+POST_PULL_SCRIPT="${BASE_PATH}/dany-tv/scripts/replace_old_channel_urls.sh"
 
 COMMIT_REPO="${BASE_PATH}/dany-tv"
 FILE_TO_ADD="${COMMIT_REPO}/Russia.m3u8"
