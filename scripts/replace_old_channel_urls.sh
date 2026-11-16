@@ -12,7 +12,34 @@ channels_dany_sport=('group-title="Alle",Матч ТВ HD' 'group-title="Alle",�
 for ((i=0; i<${#channels_dimo[@]}; i++))
 do
     search_in=$(printf '%s\n' "${channels_dimo[$i]}" | sed 's/[][\\/.*^$|]/\\&/g')
-    new_link=$(sed -n "/${search_in}\$/{n;p;q;}" "${input_file}")
+    new_link=$(SEARCH="$search_in" awk '
+    BEGIN {
+        s = ENVIRON["SEARCH"]
+    }
+    {
+        sub(/\r$/, "")
+
+        if (index($0, s)) {
+            getline next1
+            sub(/\r$/, "", next1)
+
+            if (next1 ~ /^[[:space:]]*https:\/\//) {
+                print next1
+                exit
+            }
+
+            getline next2
+            sub(/\r$/, "", next2)
+
+            if (next2 ~ /^[[:space:]]*https:\/\//) {
+                print next2
+                exit
+            }
+
+            exit
+        }
+    }
+    ' "${input_file}")
 
     search_out=$(printf '%s\n' "${channels_dany[$i]}" | sed 's/[][\\/.*^$|]/\\&/g')
     replace_out=$(printf '%s\n' "$new_link" | sed 's/[&|]/\\&/g')
