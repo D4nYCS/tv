@@ -11,7 +11,8 @@ channels_dany_sport=('group-title="Alle",Матч ТВ HD' 'group-title="Alle",�
 
 for ((i=0; i<${#channels_dimo[@]}; i++))
 do
-    search_in=$(printf '%s\n' "${channels_dimo[$i]}" | sed 's/[][\\/.*^$|]/\\&/g')
+    #search_in=$(printf '%s\n' "${channels_dimo[$i]}" | sed 's/[][\\/.*^$|]/\\&/g')
+    search_in="${channels_dimo[$i]}"
     new_link=$(awk -v s="$search_in" '
     index($0, s) {
         getline next1
