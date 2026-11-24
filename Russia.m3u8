@@ -1,30 +1,30 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="pervy" tvg-logo="http://epg.it999.ru/img/983.png" group-title="Alle",Первый канал
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=53ReM4fr838NcVt-I9N_SQ&e=2095507382&scheme=https
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=XOAMjgFNuTsc5QBmyUtlrA&e=2095550291&scheme=https
 #EXTINF:-1 tvg-name="Россия HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,Россия HD
 https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-name="Россия K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия K
-https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=k7eqaZF8tVxlG7ZtAL-V7A&e=2095507384&scheme=https
+https://bl.rutube.ru/livestream/d0c0d69362edfbe706cb82d973439bb5/index.m3u8?s=H580td7Y28DxjSymgg6Qtw&e=2095550292&scheme=https
 #EXTINF:-1 tvg-name="Россия 24 K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Russia-1.svg/1024px-Russia-1.svg.png" tvg-id="Russia1.ru" group-title="Alle",Россия 24
 https://live.smotrim.ru/vgtrk/0/russia24-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" group-title="Alle",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://epg.one/img/2001.png" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",НТВ HD2
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=3h1KXDfIjmquAXKsPs3s5A&e=2095507382&scheme=https
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=YN3OjdIqBZFeEBkCH4a7Mg&e=2095550291&scheme=https
 #EXTINF:-1 tvg-id="5kanal-ru" tvg-logo="https://epgx.site/p/5kanal-ru.png" group-title="Alle",Пятый канал
 http://31.131.141.195:8000/play/1050/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",ТНТ
 http://31.131.141.195:8000/play/2090/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=TYG07GbE8TtZEHiDCfD4TQ&e=2095507383&scheme=https
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=ec1ZhbWwLG-c6URQ0-TLRQ&e=2095550291&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",ТНТ4
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=-NKno6UqBGiIr4XNl0QQyw&e=2095507383&scheme=https
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=WRyqgbpLbRClvn9-cETdJQ&e=2095550292&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",Карусель
 http://31.131.141.195:8000/play/1080/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",Че
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8
 #EXTINF:-1 tvg-id="otr" tvg-logo="https://epgx.site/p/otr.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",ОТР
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=0SvDR9M9M_c6MjMMFuuAdg&e=2095507444&scheme=https
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=3B2JeEMrCuTtGD1_MILt-g&e=2095550332&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,РЕН ТВ HD
 http://31.131.141.195:8000/play/2010/index.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,Победа HD
@@ -34,19 +34,19 @@ http://31.131.141.195:8000/play/2030/index.m3u8
 #EXTINF:-1 tvg-id="domashny-int" tvg-logo="https://epgx.site/p/domashny-int.png" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",Домашний
 http://31.131.141.195:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-name="Звезда" tvg-logo="https://i.imgur.com/c0L0ncA.png" tvg-id="TelekanalZvezda.ru" catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=sIkOo-Em5u0AB672yTncPg&e=2095507421&scheme=https
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=7WlRne2Qlvi-qgKSbisRxA&e=2095550314&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,Мир
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=2BzhGPDXGWUrgZvszRnNrw&e=2095507428&scheme=https
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=5q8QTQpxEfKCxxkce1BnwQ&e=2095550324&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,ТВ3
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=Vd5mxYVOGaSqmGYKq_2JwQ&e=2095507386&scheme=https
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=5HSUR7hldSQgWkUOYTUNGQ&e=2095550293&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle" ,Пятница
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=XpZIyPCFYsu90jY9mmbdtQ&e=2095507385&scheme=https
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=B7hB0HJUssVyhzSJ5rNJgw&e=2095550292&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle",2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=eiooviPiA2Mh92etbXFjRw&e=2095507387&scheme=https
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=zbMYuDXOUOKcPjpArsknhQ&e=2095550294&scheme=https
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Alle", Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=fqQpizm_4a1VcV_QMrBQIw&e=2095507389&scheme=https
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=nixUzF8p5nU8q0DE3s1-IA&e=2095550295&scheme=https
 #EXTINF:-1 group-title="Alle",RU.TV
-https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=lNUCdhYCFt2kv-dpuDREsw&e=2095507455&scheme=https
+https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=7vFEdk4yImkjuP3YQKHubA&e=2095550340&scheme=https
 #EXTINF:-1 group-title="Alle",Матч ТВ HD
 http://arbiter.bolshoe.tv/?path=abr2/match_tv_hd/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9OS8xNy8yMDI1IDc6MDA6MzUgUE0maGFzaF92YWx1ZT1ZNWRMMDMyU0hrYWdmcFlWVGV5V25BPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=´
 #EXTINF:-1 group-title="Alle",Матч! Футбол 1
